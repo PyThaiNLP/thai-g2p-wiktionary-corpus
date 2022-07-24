@@ -1,6 +1,6 @@
 # Thai Grapheme to Phoneme (G2P) Wiktionary Corpus
 
-This project give you a Thai Grapheme to Phoneme corpus for build Thai grapheme-to-phoneme models. The corpus come from Wiktionary that scrape by [WikiPron](https://pypi.org/project/wikipron/). It is use IPA.
+This is the Thai Grapheme to Phoneme corpus for build Thai grapheme-to-phoneme models. The corpus come from Wiktionary that scrape by [WikiPron](https://pypi.org/project/wikipron/). It is use IPA.
 
 The corpus license is [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
