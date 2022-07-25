@@ -5,7 +5,7 @@ This is the Thai Grapheme to Phoneme corpus for build Thai grapheme-to-phoneme m
 The corpus license is [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 **Files**
-- wiktionary-23-7-2022-clean.tsv - scraped 23 July 2022 with cleaned
+- wiktionary-23-7-2022-clean.tsv - scraped 23 July 2022 and clean dataset
 - wiktionary-23-7-2022.tsv - scraped 23 July 2022
 - wiktionary-11-2-2020.tsv - scraped 11 February 2020
 - clean_corpus.ipynb - clean source code
